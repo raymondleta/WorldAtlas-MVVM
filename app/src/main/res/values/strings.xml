@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">World Atlas</string>
+    <string name="error_loading">Error occured while loading data</string>
+    <string name="capital">Capital</string>
+    <string name="country">Country</string>
+</resources>
